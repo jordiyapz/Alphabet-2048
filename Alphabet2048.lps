@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="9">
+      <Unit0>
+        <Filename Value="Alphabet2048.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="3715"/>
+        <CursorPos X="52" Y="3654"/>
+        <FoldState Value=" T0oWl4G pieo294B pj1jSG74]IZj8F2C]IOiMG29]90iJI82 pmKDG63]HTNJ5A]hYibMG6]9biYMC7]Q2iXFf7]Ifi1MR8 pwcigC{([b4XRr45 pk4Wp31]i66MS8[{E51T[{N59i8zG4]9OOG.]8iYMt83]8cG:I7]w7iJGq6]X2aP9[H4ZiEG)4[H4]g5[o4W{37]QiaiFq4[Z4EdGw[Q4XVrO]GjTiJBJ9[}45Bl72]9gKGJ6[p4Pp48 pjIi3GA[Y4Ki9CD[(4Yjcd7G piZo363D[I4kD62E[94oX488]9elHA34 pj5i48a[^5g6f[{X636[99[~W5gj24A9 TMxO63012 p0ilU21051U"/>
+        <UsageCount Value="170"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="C:\lazarus\fpc\3.0.4\source\rtl\inc\objpash.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="178"/>
+        <CursorPos X="20" Y="191"/>
+        <UsageCount Value="7"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="C:\lazarus\fpc\3.0.4\source\rtl\objpas\math.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="361"/>
+        <UsageCount Value="14"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="C:\lazarus\fpc\3.0.4\source\packages\rtl-console\src\win\crt.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="964"/>
+        <UsageCount Value="53"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="C:\lazarus\fpc\3.0.4\source\rtl\inc\objpas.inc"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="2"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="C:\lazarus\fpc\3.0.4\source\packages\rtl-console\src\inc\crth.inc"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="22"/>
+        <CursorPos X="8" Y="43"/>
+        <UsageCount Value="23"/>
+        <Loaded Value="True"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="C:\lazarus\fpc\3.0.4\source\rtl\win\wininc\func.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1012"/>
+        <CursorPos X="137" Y="983"/>
+        <UsageCount Value="10"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="C:\lazarus\fpc\3.0.4\source\rtl\objpas\sysutils\sysutilh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="309"/>
+        <CursorPos X="18" Y="320"/>
+        <UsageCount Value="10"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="C:\lazarus\fpc\3.0.4\source\rtl\win32\windows.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="53"/>
+        <UsageCount Value="10"/>
+      </Unit8>
+    </Units>
+    <JumpHistory Count="29" HistoryIndex="28">
+      <Position1>
+        <Filename Value="Alphabet2048.lpr"/>
+        <Caret Line="1040" Column="34" TopLine="1028"/>
+      </Position1>
+      <Position2>
+        <Filename Value="Alphabet2048.lpr"/>
+        <Caret Line="869" Column="76" TopLine="852"/>
+      </Position2>
+      <Position3>
+        <Filename Value="Alphabet2048.lpr"/>
+        <Caret Line="16" Column="34"/>
+      </Position3>
+      <Position4>
+        <Filename Value="Alphabet2048.lpr"/>
+        <Caret Line="3276" Column="29" TopLine="3219"/>
+      </Position4>
+      <Position5>
+        <Filename Value="Alphabet2048.lpr"/>
+        <Caret Line="3147" Column="28" TopLine="3140"/>
+      </Position5>
+      <Position6>
+        <Filename Value="Alphabet2048.lpr"/>
+        <Caret Line="16" Column="28" TopLine="8"/>
+      </Position6>
+      <Position7>
+        <Filename Value="Alphabet2048.lpr"/>
+        <Caret Line="999" Column="72" TopLine="959"/>
+      </Position7>
+      <Position8>
+        <Filename Value="Alphabet2048.lpr"/>
+        <Caret Line="871" Column="43" TopLine="862"/>
+      </Position8>
+      <Position9>
+        <Filename Value="Alphabet2048.lpr"/>
+        <Caret Line="1007" Column="93" TopLine="982"/>
+      </Position9>
+      <Position10>
+        <Filename Value="Alphabet2048.lpr"/>
+        <Caret Line="998" Column="30" TopLine="982"/>
+      </Position10>
+      <Position11>
+        <Filename Value="Alphabet2048.lpr"/>
+        <Caret Line="1001" Column="37" TopLine="985"/>
+      </Position11>
+      <Position12>
+        <Filename Value="Alphabet2048.lpr"/>
+        <Caret Line="1334" Column="50" TopLine="1305"/>
+      </Position12>
+      <Position13>
+        <Filename Value="Alphabet2048.lpr"/>
+        <Caret Line="1336" Column="77" TopLine="1326"/>
+      </Position13>
+      <Position14>
+        <Filename Value="Alphabet2048.lpr"/>
+        <Caret Line="1530" Column="38" TopLine="1014"/>
+      </Position14>
+      <Position15>
+        <Filename Value="Alphabet2048.lpr"/>
+        <Caret Line="197" Column="5" TopLine="16"/>
+      </Position15>
+      <Position16>
+        <Filename Value="Alphabet2048.lpr"/>
+        <Caret Line="1121" Column="13" TopLine="1098"/>
+      </Position16>
+      <Position17>
+        <Filename Value="Alphabet2048.lpr"/>
+        <Caret Line="1011" Column="87" TopLine="997"/>
+      </Position17>
+      <Position18>
+        <Filename Value="Alphabet2048.lpr"/>
+        <Caret Line="1017" Column="81" TopLine="1007"/>
+      </Position18>
+      <Position19>
+        <Filename Value="Alphabet2048.lpr"/>
+        <Caret Line="1125" Column="33" TopLine="1033"/>
+      </Position19>
+      <Position20>
+        <Filename Value="Alphabet2048.lpr"/>
+        <Caret Line="1126" Column="13" TopLine="1115"/>
+      </Position20>
+      <Position21>
+        <Filename Value="Alphabet2048.lpr"/>
+        <Caret Line="1125" Column="38" TopLine="1115"/>
+      </Position21>
+      <Position22>
+        <Filename Value="Alphabet2048.lpr"/>
+        <Caret Line="1633" Column="42" TopLine="1418"/>
+      </Position22>
+      <Position23>
+        <Filename Value="Alphabet2048.lpr"/>
+        <Caret Line="1953" Column="45" TopLine="1938"/>
+      </Position23>
+      <Position24>
+        <Filename Value="Alphabet2048.lpr"/>
+        <Caret Line="1942" Column="26" TopLine="1933"/>
+      </Position24>
+      <Position25>
+        <Filename Value="Alphabet2048.lpr"/>
+        <Caret Line="3059" Column="30" TopLine="3021"/>
+      </Position25>
+      <Position26>
+        <Filename Value="Alphabet2048.lpr"/>
+        <Caret Line="1943" Column="40" TopLine="1933"/>
+      </Position26>
+      <Position27>
+        <Filename Value="Alphabet2048.lpr"/>
+        <Caret Line="1942" Column="39" TopLine="1933"/>
+      </Position27>
+      <Position28>
+        <Filename Value="Alphabet2048.lpr"/>
+        <Caret Line="1941" Column="59" TopLine="1934"/>
+      </Position28>
+      <Position29>
+        <Filename Value="Alphabet2048.lpr"/>
+        <Caret Line="2287" Column="82"/>
+      </Position29>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
